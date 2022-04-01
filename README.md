@@ -1,6 +1,6 @@
 # Leitor-de-texto
 Essa aplicação é usada para converter texto em português em áudio.<br/>
-Foi utilizado o método speak() do SpeechSynthesis.<br/>
+Foi desenvolvido com o método speak() do SpeechSynthesis.<br/>
 Coloque o texto na caixa e aperte play para o texto ser lido.</br>
 <br>
 ATENÇÂO: adicinar somente texto em portugues!
